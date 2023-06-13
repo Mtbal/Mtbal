@@ -1,16 +1,15 @@
 👋
 
-- Hi, I’m @Mtbal
+- Hi, I'm @Mtbal
 - I'm really interested in technology. My main interests 👀 are: programming, Information Security, gaming, hacking and Artificial Intelligence (AI).
-- I am currently deepening my knowledge in the area of application development. Specifically, right now I'm really interested in two subjects. The first is Machine Learning and how Robots can learn from mistakes. The second is Information Security. The new post-pandemic era presents many challenges regarding data security.
-- I try to collaborate with articles. I have more than a thousand published texts. I'm interested in how technology can improve people's lives, how these people can defend themselves from cyber attacks, and awareness of the importance of technology and Information Security for businesses and people.
-- 📫 How to reach me (in the update phase)...
-
+- I am currently deepening my knowledge in the area of ​​cybersecurity and web and mobile development. Specifically, I am now really interested in Information Security. The new post-pandemic era presents many challenges regarding data security.
+- I try to collaborate with articles. I participate in Bug Bounty programs. I'm interested in how technology can improve people's lives.
+- 📫 How to reach me (in update)...
 <br />
 <br />
-
-🔎 My current focus<br />
-
+🔎 My current focus
+ <br />
+ <br />
  HTML/CSS <br />
  Java<br />
  React<br />
